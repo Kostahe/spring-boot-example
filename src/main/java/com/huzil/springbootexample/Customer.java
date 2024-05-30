@@ -5,7 +5,7 @@ import jakarta.persistence.*;
 import java.util.Objects;
 
 @Entity
-public class Customer { B
+public class Customer {
 
     @Id
     @SequenceGenerator(
